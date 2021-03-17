@@ -1,0 +1,12 @@
+//bai1
+int* getPointerToTen(){
+    int *a;
+    a = new int(10);
+    return a;
+}
+//bai2
+double* getPointerToPi(){
+    double *a;
+    a = new double(3.14159);
+    return a;
+}
